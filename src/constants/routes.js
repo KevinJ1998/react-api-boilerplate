@@ -16,7 +16,8 @@ const publicRoutes = {
 const privateRoutes = {
   LOGOUT: '/logout',
   PRIVATE: '/privada',
-  ARTICLE_ID: '/articulo/:id'
+  ARTICLE_ID: '/articulo/:id',
+  PROFILE: '/perfil'
 };
 
 const Routes = {
